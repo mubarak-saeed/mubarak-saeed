@@ -55,9 +55,11 @@ Available for freelance and long-term engagements. For a fast response, include:
 
 Contact
 -------
-- Email: [mubarak@example.com](mailto:mubarak@example.com)  (replace with your real email)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  (add your link)
-- GitHub: [eng-mubarak-saeed](https://github.com/eng-mubarak-saeed)
+- Email: [mubarak@example.com](mailto:mubarak@example.com) — Use this address for project enquiries and proposals. (replace with your real email)
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-profile) — Connect for professional networking. (add your link)
+- GitHub: [eng-mubarak-saeed](https://github.com/eng-mubarak-saeed) — Browse projects and contributions.
+- Availability: Open to freelance and long-term collaborations
+- Location: Remote (available worldwide)
 
 Call to Action
 --------------
