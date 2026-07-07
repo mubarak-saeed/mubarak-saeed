@@ -17,6 +17,13 @@ Core Technologies
 - Databases & Cache: PostgreSQL, MySQL, MongoDB, Redis
 - DevOps & Tooling: Docker, Git, GitHub Actions, AWS / GCP, Postman, Sentry, ELK
 
+Backend & Frameworks
+--------------------
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+
 Selected Projects (placeholders)
 -------------------------------
 - Mobile payments app — end-to-end Android client with secure payment flow and offline sync.
