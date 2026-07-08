@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/eng-mubarak-saeed?style=social)](https://github.com/eng-mubarak-saeed) 
 [![Email](https://img.shields.io/badge/mubaraksaeedlab%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mubaraksaeedlab@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+967779032862)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=0d1117&right_color=58a6ff&left_text=Profile%20Views)](https://github.com/eng-mubarak-saeed)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername&left_color=0d1117&right_color=58a6ff&left_text=Profile%20Views)](https://github.com/eng-mubarak-saeed)
 
 </div>
 
@@ -56,7 +56,9 @@ How I Work
 
 Contact & Availability
 ----------------------
-[![Email](https://img.shields.io/badge/mubaraksaeedlab%gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubaraksaeedlab@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-eng--mubarak--saeed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eng-mubarak-saeed)
+[![Email](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubaraksaeedlab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-eng--mubarak--saeed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eng-mubarak-saeed)
 
 - Availability: Open to freelance and long-term collaborations.
 - Location: Remote (UTC+3 preferred hours). Reply with project summary, deliverables, tech stack, and desired timeline for a fast estimate.
