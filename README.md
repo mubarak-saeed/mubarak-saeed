@@ -12,11 +12,18 @@
 
 ### Professional Summary
 --------------------
-*I build polished Android applications and reliable back-end systems that solve business problems. I deliver maintainable, well-tested software and help teams move from idea to production quickly*.
+*I build polished mobile applications and reliable back-end systems that solve real business problems. I focus on maintainability, test coverage, and shipping production-ready features quickly.
+
+Key strengths:
+- End-to-end product development (mobile + backend + admin dashboards)  
+- Strong in API design, authentication, and scalable data models  
+- Practical experience with RTL apps and performance-sensitive mobile flows
+
+---
 
 What I Do
 ---------
-- Android apps: Coroutines, background sync, secure payments.
+- Mobile apps: Coroutines, background sync, secure payments.
 - Back-end systems: REST APIs, authentication, data modeling, scalability and observability.
 
 Backend & Frameworks
@@ -52,8 +59,7 @@ Live: https://www.unigpms.com
 
 ### mediax
 Media gallery website/app with front-end and back-end components and a live demo.  
-Repo: https://github.com/mubarak-saeed/mediax  
-Demo: https://mediax-bice.vercel.app
+Repo: https://github.com/mubarak-saeed/mediax
 
 ### tech_course_app
 TechCourse mobile app built with Flutter (RTL support and Cairo font), targeted at students and tech learners.  
